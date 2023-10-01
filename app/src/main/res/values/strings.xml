@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project_boricue</string>
+    <string name="identificacion">Identificación</string>
+    <string name="nombres">Nombres</string>
+    <string name="direccion">Dirección</string>
+    <string name="correo">Correo electronico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="telefono">Telefono</string>
+    <string name="Button_registrarse">Registrarse</string>
+    <string name="welcome">Bienvenido a Boricue!</string>
+    <string name="siguente">Siguiente</string>
+    <string name="w"></string>
+    <string name="sin">¿No tienes una cuenta?</string>
+    <string name="con">¿Ya tienes una cuenta?</string>
+    <string name="registrar">Registrar</string>
+    <string name="iniciar">Iniciar sesión</string>
+
+    <string-array name="roles">
+        <item>Usuario</item>
+        <item>Empresa</item>
+    </string-array>
+
+</resources>
