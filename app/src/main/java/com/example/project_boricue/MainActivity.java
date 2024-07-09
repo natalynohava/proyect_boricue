@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(String response) {
                 progressDialog.dismiss();
                 if (!response.isEmpty()) {
-                    Intent intent = new Intent(getApplicationContext(), Promociones.class);
+                    Intent intent = new Intent(getApplicationContext(), Principal.class);
                     startActivity(intent);
                 } else {
                     Toast.makeText(MainActivity.this, "No hay datos", Toast.LENGTH_SHORT).show();
