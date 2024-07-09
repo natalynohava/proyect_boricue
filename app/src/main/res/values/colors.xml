@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#212E7E</color>
+    <color name="my_secondary">#3F51B5</color>
+    <color name="prom1">#011F68</color>
+    <color name="prom2">#3F51B5</color>
+    <color name="prom3">#32D8CE</color>
+
+
 </resources>
